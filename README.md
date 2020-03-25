@@ -1,5 +1,4 @@
 # Kill The Cars
-----
 ## About
 Another pygame game I created cuz I was bored.
 
